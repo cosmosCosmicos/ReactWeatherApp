@@ -1,0 +1,21 @@
+.locationCont{
+    width: 100px;
+    height: 30px;    
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: left;
+    
+    color:#888;
+    line-height: 30px;
+}
+
+.locationCont h1{
+    margin: 0;    
+}
+
+.weatherLocationCont{
+    width: 450px;
+    padding: 15px;
+    box-shadow: 10px 10px 42px -12px;
+    background: rgba(0, 0, 240, 0.1);
+}
